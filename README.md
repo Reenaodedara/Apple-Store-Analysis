@@ -1,6 +1,7 @@
 # Apple-Store-Analysis
 
 ✤ Project Description:
+
 This project uses SQL to analyze the dataset of Apple store.
 
 The objective of the project is to gain valuable insights into the store's operations, orders placed by each customer,customer interest and money spent by customer.
@@ -16,7 +17,8 @@ MySQL
 3)orders
 
 ✤ Queries of the Project:
- Q1. Find out total sales per year ?
+
+Q1. Find out total sales per year ?
 
 Q.2 Best selling products and their sale?
 
